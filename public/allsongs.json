@@ -1,0 +1,165 @@
+{
+	"songs": [
+		{
+			"id": "1",
+			"name": "Aabaad Barbaad",
+			"path": "music/Aabaad_Barbaad.mp3",
+			"img": "img/aabaad-barbaad.webp",
+			"singer": "Arijit Singh",
+			"genre": "Romantic"
+		},
+		{
+			"id": "2",
+			"name": "Aankh Marey",
+			"path": "music/Aankh_Marey.mp3",
+			"img": "img/Aankh_Marey.jpeg",
+			"singer": "Kumar Sanu, Mika Singh & Neha Kakkar",
+			"genre": "HotHits"
+		},
+		{
+			"id": "3",
+			"name": "Aao Kabhi Haveli Pe",
+			"path": "music/Aao_Kabhi_Haveli_Pe.mp3",
+			"img": "img/Aao_Kabhi_Haveli_Pe.jpeg",
+			"singer": "Badshah & Nikhita Gandhi",
+			"genre": "HotHits"
+		},
+		{
+			"id": "4",
+			"name": "Aashiq Surrender Hua",
+			"path": "music/Aashiq_Surrender_Hua.mp3",
+			"img": "img/Aashiq_Surrender_Hua.webp",
+			"singer": "Amaal Mallik & Shreya Ghoshal",
+			"genre": "HotHits"
+		},
+		{
+			"id": "5",
+			"name": "Agar Tum Mil Jao",
+			"path": "music/Agar_Tum_Mil_Jao.mp3",
+			"img": "img/Agar_Tum_Mil_Jao.jpeg",
+			"singer": "Shreya Ghoshal",
+			"genre": "Romantic"
+		},
+		{
+			"id": "6",
+			"name": "Akh Lad Jaave",
+			"path": "music/Akh_Lad_Jave.mp3",
+			"img": "img/Akh_Lad_Jave.jpeg",
+			"singer": "Asees Kaur, Badshah & Jubin Nautiyal",
+			"genre": "HotHits"
+		},
+		{
+			"id": "7",
+			"name": "Baarish",
+			"path": "music/Baarish.mp3",
+			"img": "img/Baarish.jpeg",
+			"singer": "Ash King, Shashaa Tirupati & Tanishk Bagchi",
+			"genre": "Romantic"
+		},
+		{
+			"id": "8",
+			"name": "Baby Doll",
+			"path": "music/Baby_Doll.mp3",
+			"img": "img/Baby_Doll.jpeg",
+			"singer": "Kanika Kapoor, Kunal Avanti & Meet Bros.",
+			"genre": "HotHits"
+		},
+		{
+			"id": "9",
+			"name": "Backbone",
+			"path": "music/Backbone.mp3",
+			"img": "img/Backbone.jpeg",
+			"singer": "Hardy Sandhu",
+			"genre": "Club"
+		},
+		{
+			"id": "10",
+			"name": "Badri Ki Dulhania",
+			"path": "music/Badri_Ki_Dulhania.mp3",
+			"img": "img/Badri_Ki_Dulhania.jpeg",
+			"singer": "Dev Neg, Ikka, Monali Thakur & Neha Kakkar",
+			"genre": "HotHits"
+		},
+		{
+			"id": "11",
+			"name": "Bakhuda Tumhi Ho",
+			"path": "music/Bakhuda_Tumhi_Ho.mp3",
+			"img": "img/Bakhuda_Tumhi_Ho.jpeg",
+			"singer": "Alka Yagnik & Atif Aslam",
+			"genre": "Romantic"
+		},
+		{
+			"id": "12",
+			"name": "Balam Pichkari",
+			"path": "music/Balam_Pichkari.mp3",
+			"img": "img/Balam_Pichkari.jpeg",
+			"singer": "Shalmali Kholgade & Vishal Dadlani",
+			"genre": "HotHits"
+		},
+		{
+			"id": "13",
+			"name": "Balma",
+			"path": "music/Balma.mp3",
+			"img": "img/Balma.jpeg",
+			"singer": "Shreya Ghoshal & Shriram",
+			"genre": "HotHits"
+		},
+		{
+			"id": "14",
+			"name": "Be Intehaan",
+			"path": "music/Be_Intehaan.mp3",
+			"img": "img/Be_Intehaan.jpeg",
+			"singer": "Atif Aslam & Sunidhi Chauhan",
+			"genre": "Romantic"
+		},
+		{
+			"id": "15",
+			"name": "Besabriyaan",
+			"path": "music/Besabriyaan.mp3",
+			"img": "img/Besabriyaan.jpeg",
+			"singer": "Armaan Malik",
+			"genre": "Club"
+		},
+		{
+			"id": "16",
+			"name": "Blue Eyes",
+			"path": "music/Blue_Eyes.mp3",
+			"img": "img/Blue_Eyes.jpeg",
+			"singer": "Yo Yo Honey Singh",
+			"genre": "Club"
+		},
+		{
+			"id": "17",
+			"name": "Bol Do Na Zara",
+			"path": "music/Bol_Do_Na_Zara.mp3",
+			"img": "img/Bol_Do_Na_Zara.jpeg",
+			"singer": "Armaan Malik",
+			"genre": "Romantic"
+		},
+		{
+			"id": "18",
+			"name": "Bom Diggy Diggy",
+			"path": "music/Bom_Diggy_Diggy.mp3",
+			"img": "img/Bom_Diggy_Diggy.jpeg",
+			"singer": "Jasmin Walia & Zack Knight",
+			"genre": "HotHits"
+		},
+		{
+			"id": "19",
+			"name": "Brown Rang",
+			"path": "music/Brown_Rang.mp3",
+			"img": "img/Brown_Rang.jpeg",
+			"singer": "Yo Yo Honey Singh",
+			"genre": "Club"
+		},
+		{
+			"id": "20",
+			"name": "Chamma Chamma",
+			"path": "music/Chamma_Chamma.mp3",
+			"img": "img/Chamma_Chamma.jpeg",
+			"singer": "Arun, Ikka, Neha Kakkar & Romi",
+			"genre": "HotHits"
+		}
+		
+	]
+}
